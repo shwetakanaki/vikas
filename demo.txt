@@ -1,3 +1,7 @@
 hello 
 this is from cloud institution
+<<<<<<< HEAD
 helolo there 
+=======
+hi
+>>>>>>> 8de53ce8e9c54f20df2716181ab4ab0893a8e680
