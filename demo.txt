@@ -4,3 +4,4 @@ helolo there
 hi
 git hub 
 hello
+reseting the commit id 
